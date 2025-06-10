@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a pong game with Lua in Love2D <br>👯 I’m looking to collaborate on a remote job offer<br>🤝 I’m looking for help with society growth<br>🌱 I’m currently learning springboot on OpenClassrooms and engineering prompting on SoloLearn<br>💬 Ask me about my contact info<br>⚡ Fun fact is that i am from team cat
+🔭 I’m currently working on a minecraft game in python <br>👯 I’m looking to collaborate on a remote job offer<br>🤝 I’m looking for help with society growth<br>🌱 I’m currently learning python and engineering prompting on SoloLearn<br>💬 Ask me about my contact info<br>⚡ Fun fact is that i am from team cat
 
 
 ## 🌐 Socials:
